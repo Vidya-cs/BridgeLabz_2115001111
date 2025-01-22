@@ -5,3 +5,6 @@
 
 20-01-25:
 	Learned about C# Introduction, Operators, etc.
+
+21-01-25 & 22-01-25:
+	2 Assignment Completed and Learned about Operator Precedence, Type Conversion & taking User Inputs 
