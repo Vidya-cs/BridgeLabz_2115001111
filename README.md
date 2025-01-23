@@ -8,3 +8,6 @@
 
 21-01-25 & 22-01-25:
 	2 Assignment Completed and Learned about Operator Precedence, Type Conversion & taking User Inputs 
+
+23-01-25:
+	Assignment on Control Flow Completed, Learned about Conditional Statements, for loop, while loop and switch case.
