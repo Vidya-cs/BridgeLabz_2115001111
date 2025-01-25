@@ -7,7 +7,10 @@
 	Learned about C# Introduction, Operators, etc.
 
 21-01-25 & 22-01-25:
-	2 Assignment Completed and Learned about Operator Precedence, Type Conversion & taking User Inputs 
+	2 Assignment Completed and Learned about Operator Precedence, Type Conversion & taking User Inputs. 
 
 23-01-25:
 	Assignment on Control Flow Completed, Learned about Conditional Statements, for loop, while loop and switch case.
+
+24-01-25 && 25-01-25:
+	Assigment on Arrays Completed and learned concepts of 1D and 2D Arrays.
