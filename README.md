@@ -14,3 +14,6 @@
 
 24-01-25 && 25-01-25:
 	Assigment on Arrays Completed and learned concepts of 1D and 2D Arrays.
+
+27-01-28 && 28-01-25:
+	Assignment on Methods completed and learned about Methods and its uses.
