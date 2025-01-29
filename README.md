@@ -17,3 +17,6 @@
 
 27-01-28 && 28-01-25:
 	Assignment on Methods completed and learned about Methods and its uses.
+
+29-01-25:
+	Assignment on Strings completed without using any in-Built function and learned about concepts of string.
