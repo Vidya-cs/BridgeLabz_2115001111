@@ -20,3 +20,6 @@
 
 29-01-25:
 	Assignment on Strings completed without using any in-Built function and learned about concepts of string.
+
+30-01-25 && 31-01-25:
+	Assignment on Built-in Functions, Class, Objects completed and learned about few built-in functions and OOPs concept. 
