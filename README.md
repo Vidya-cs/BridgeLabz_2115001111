@@ -23,3 +23,6 @@
 
 30-01-25 && 31-01-25:
 	Assignment on Built-in Functions, Class, Objects completed and learned about few built-in functions and OOPs concept. 
+
+01-02-25 && 02-02-25:
+	Assignment on Constructor, Instance and Class Variables completed. 
