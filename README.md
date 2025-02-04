@@ -26,3 +26,6 @@
 
 01-02-25 && 02-02-25:
 	Assignment on Constructor, Instance and Class Variables completed. 
+
+03-02-25 && 04-02-25:
+	Assignment on sealed, static, this, is keyword completed.
