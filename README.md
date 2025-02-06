@@ -29,3 +29,6 @@
 
 03-02-25 && 04-02-25:
 	Assignment on sealed, static, this, is keyword completed.
+
+05-02-25 && 06-02-25:
+	Assignment on Object Oriented Design Principles completed.
