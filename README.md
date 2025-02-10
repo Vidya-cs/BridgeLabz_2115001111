@@ -32,3 +32,6 @@
 
 05-02-25 && 06-02-25:
 	Assignment on Object Oriented Design Principles completed.
+
+07-02-25 && 08-02-25:
+	Assignment on Inheritance, its types and Polymorphism completed.
