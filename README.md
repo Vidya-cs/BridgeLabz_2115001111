@@ -35,3 +35,6 @@
 
 07-02-25 && 08-02-25:
 	Assignment on Inheritance, its types and Polymorphism completed.
+
+09-02-25 && 10-02-25:
+	Assignment on Encapsulation, Polymorphism, Interface and Abstract Class Completed.
