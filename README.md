@@ -38,3 +38,6 @@
 
 09-02-25 && 10-02-25:
 	Assignment on Encapsulation, Polymorphism, Interface and Abstract Class Completed.
+
+11-02-25 && 12-02-25:
+	Assignment on Linked List and its types Completed.
