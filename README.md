@@ -47,3 +47,6 @@
 
 14-02-25:
 	Assignment on Sorting Algorithms Completed.
+
+15-02-25 && 16-02-25:
+	Assignment on Searching, String, StringBuilder, FileReader Completed.
