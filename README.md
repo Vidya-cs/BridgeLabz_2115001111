@@ -41,3 +41,6 @@
 
 11-02-25 && 12-02-25:
 	Assignment on Linked List and its types Completed.
+
+13-02-25:
+	Assignment on Stacks, Queues, HashMaps and Hash Functions Completed.
