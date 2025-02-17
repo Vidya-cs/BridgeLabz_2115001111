@@ -44,3 +44,6 @@
 
 13-02-25:
 	Assignment on Stacks, Queues, HashMaps and Hash Functions Completed.
+
+14-02-25:
+	Assignment on Sorting Algorithms Completed.
