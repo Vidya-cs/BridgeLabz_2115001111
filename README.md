@@ -53,3 +53,6 @@
 
 17-02-25:
 	Assignment on Algorithm's Runtime Analysis & Big-O Notation Completed.
+
+18-02-25:
+	Assignment on Generics Completed.
