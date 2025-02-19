@@ -56,3 +56,6 @@
 
 18-02-25:
 	Assignment on Generics Completed.
+
+19-02-25:
+	Assignment on Collections Completed.
