@@ -62,3 +62,6 @@
 
 20-02-25:
 	Assignment on Streams Completed.
+
+21-02-25:
+	Assignment on Exceptions Completed.
