@@ -59,3 +59,6 @@
 
 19-02-25:
 	Assignment on Collections Completed.
+
+20-02-25:
+	Assignment on Streams Completed.
