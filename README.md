@@ -65,3 +65,6 @@
 
 21-02-25:
 	Assignment on Exceptions Completed.
+
+22-02-25:
+	Assignment on Regex and NUnit Completed.
