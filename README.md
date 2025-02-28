@@ -68,3 +68,6 @@
 
 22-02-25:
 	Assignment on Regex and NUnit Completed.
+
+23-02-25 && 24-02-25:
+	Assignment on Annotations and Reflection Completed.
