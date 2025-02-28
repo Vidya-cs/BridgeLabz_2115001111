@@ -1,0 +1,34 @@
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.dll
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+F:\Capg- TRAINING\C# Programmes\feature-27Feb2025\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Vidya Sagar Singh\Desktop\Training\Web Application\UserRegistrationProject\UserRegistrationProject\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vidya Sagar Singh\\Desktop\\Training\\Web Application\\UserRegistrationProject\\UserRegistrationProject\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0FBC8E-7A8D-4357-BC94-EC700517EC18}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\vidya sagar singh\\desktop\\training\\web application\\userregistrationproject\\userregistrationproject\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessLayer",
+              "DocumentMoniker": "C:\\Users\\Vidya Sagar Singh\\Desktop\\Training\\Web Application\\UserRegistrationProject\\UserRegistrationProject\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\Vidya Sagar Singh\\Desktop\\Training\\Web Application\\UserRegistrationProject\\UserRegistrationProject\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T17:20:04.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
