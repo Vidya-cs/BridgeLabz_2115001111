@@ -74,3 +74,6 @@
 
 25-02-25:
 	Assignment on CSV Data Handling Completed.
+
+26-02-25:
+	Assignment on JSON Data Completed.
